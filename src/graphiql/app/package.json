@@ -40,8 +40,8 @@
     }
   },
   "dependencies": {
-    "apollo-link": "^1.2.2",
-    "apollo-link-ws": "^1.0.8",
+    "apollo-link": "^1.2.14",
+    "apollo-link-ws": "^1.0.20",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "graphiql": "1.0.0-alpha.0",
     "graphiql-code-exporter": "^2.0.8",
