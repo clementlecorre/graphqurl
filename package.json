@@ -21,7 +21,7 @@
     "isomorphic-fetch": "3.0.0",
     "isomorphic-ws": "4.0.1",
     "open": "7.3.1",
-    "subscriptions-transport-ws": "0.9.18",
+    "subscriptions-transport-ws": "0.11.0",
     "terminal-kit": "^1.45.4",
     "ws": "7.4.2"
   },
